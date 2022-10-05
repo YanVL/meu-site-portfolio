@@ -64,7 +64,7 @@ h5 {
 }
 
 .efeito-hover:hover {
-    animation: animate__animated animate__tada;
+    animation: animate__tada;
     
 }
 
