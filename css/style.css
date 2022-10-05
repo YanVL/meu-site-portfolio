@@ -83,7 +83,7 @@ h5 {
 /* --------------------------------rodape-------------------------------- */
 #rodape {
     background-color: black;
-    display: flex;
+    display: flexbox;
 }
 
 .creditos {
